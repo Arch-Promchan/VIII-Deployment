@@ -1,0 +1,19 @@
+{
+  "name": "exercise-viii",
+  "version": "1.0.0",
+  "description": "DevOps Task",
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js --coverage"
+  },
+  "jest": {
+    "collectCoverageFrom": [
+      "src/**/*.js",
+      "!src/.internal/**"
+    ],
+    "testEnvironment": "node"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
