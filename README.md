@@ -1,0 +1,1 @@
+[![Coverage Status](https://coveralls.io/repos/github/Arch-Promchan/VIII-Deployment/badge.svg?branch=main)](https://coveralls.io/github/Arch-Promchan/VIII-Deployment?branch=main)
